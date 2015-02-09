@@ -1,0 +1,2 @@
+php DataGetterAuto.php
+pause
